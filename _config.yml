@@ -12,7 +12,7 @@ urls:
       url: /
     - text: About
       url: /about
-    - text: Blog
+    - text: Project
       url: /blog
     - text: Gallery
       url: /gallery
@@ -27,12 +27,12 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: dduyon2.jpg
 author: Kim Sooyeon
 author_bio: Hi, my name is Kim Sooyeon.
 author_email: "synkim5@gmail.com"
 author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+typewrite-text: Developer Blog
 
 # Experiences
 author_work_experiences:
@@ -76,12 +76,7 @@ twitter_username: johndoe
 github_username:  sujaykundu777
 facebook_username: johndoe
 linkedin_username: johndoe
-behance_username: johndoe
 instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
