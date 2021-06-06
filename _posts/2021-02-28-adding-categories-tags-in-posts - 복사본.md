@@ -1,29 +1,25 @@
 ---
 layout: post
-title:  "Dynamic Report"
-summary: "Using Jasper Report API"
-author: dduyon2
-date: 
-category: []
-tags: JasperReport
+title:  "Adding Multiple Categories in Posts"
+summary: "Learn how to add categories in posts"
+author: xplor4r
+date: '2021-02-28 1:35:23 +0530'
+category: ['jekyll','guides', 'sample_category']
+tags: jekyll
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi categories and tags
 usemathjax: false
-permalink: /blog/making-dynamic-report/
+permalink: /blog/adding-categories-tags-in-posts/
 ---
 
-## Making Dynamic Report
+## Adding Multiple Categories in Posts
 
-Jasper Report API 를 사용하여 동적 보고서 생성 모듈 개발 프로젝트입니다.
+To add categories in blog posts all you have to do is add a **category** key with category values in frontmatter of the post :
 
-WEB에서 받아온 데이터 ( Json )를 바탕으로 레포트를 생성합니다.
-
-Received Data  From WEB 
-
-```{	
-{
-
-}
+```
+---
+category: ['jekyll', 'guides', 'sample_category']
+---
 ```
 
 Then to render this category using link and pages. All we need to do is,
