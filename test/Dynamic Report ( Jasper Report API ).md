@@ -2,5 +2,5 @@
 sort: 1
 ---
 
-# Dynamic Report Template ( Jasper Report API )
+# Dynamic Report ( Jasper Report API )
 
