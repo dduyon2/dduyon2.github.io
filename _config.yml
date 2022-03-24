@@ -1,31 +1,28 @@
-title: dduyon2 Git Pages
-description: dduyon2.github.io
+title: Jekyll Vision Casper Theme
+email: hugo.colombo23@gmail.com
+author:
+  picture: http://site.hugocarreira.me/assets/img/compressed/hugo.jpg #URL FORMAT
+  name: Hugo Carreira
+  location: Rio de Janeiro - Brazil
+  description: "19 years old, studying computer science"  
+description: only my simple vision of casper theme
+baseurl: "/"
+url: https://hugocarreira.github.io/jekyll-vision-casper-theme
+twitter_username: hugocolombo23
+github_username:  hugocarreira
+github_url: https://hugocarreira.github.io/jekyll-vision-casper-theme/
 
-theme: null
-
-# debug:
-#   compress: true
-#   dist: false
-#   shortcodes: true
-
-readme_index:
-  with_frontmatter: true
-
-plugins:
-  - jemoji
-  - jekyll-avatar
-  - jekyll-mentions
-
+# Build settings
+permalink: :title
+paginate: 1
+paginate_path: "page:num"
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+gems:
+  - jekyll-feed
+  - jekyll-paginate
 exclude:
-  - Makefile
-  - CNAME
-  - LICENSE
-  - update.sh
   - Gemfile
   - Gemfile.lock
-  - requirements.txt
-  - node_modules
-  - package.json
-  - package-lock.json
-  - webpack.config.js
-  - jekyll-rtd-theme.gemspec

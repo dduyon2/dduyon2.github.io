@@ -1,12 +1,12 @@
-#   Profile 
+# jekyll-vision-casper-theme
+:construction: work in progress - only my simple vision of casper theme adapted to jekyl  
 
-##### 																		김 수연 Kim Sooyeon
+## TODO
+- [ ] - Logo
+- [ ] - Navbar
+- [ ] - Menu
 
-<img src="./assets/images/profile.png" alt="profile" style="zoom:10%;" align="center" />
+## Preview:
+![alt tag](screencapture-hugocarreira-github-io-jekyll-vision-casper-theme-1480141015947.png)
 
-
-
-| Name      | 김수연 ( Kim Sooyeon) | Birth       | 1995.03.08               |
-| --------- | --------------------- | ----------- | ------------------------ |
-| **Email** | **synkim5@gmail.com** | **Address** | **경기도 성남시 분당구** |
-
+[DEMO](https://hugocarreira.github.io/jekyll-vision-casper-theme)
