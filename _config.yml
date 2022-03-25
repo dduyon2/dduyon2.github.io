@@ -1,5 +1,5 @@
-title: Jekyll Vision Casper Theme
-email: hugo.colombo23@gmail.com
+title: SOOYEON Page
+email: ksy9500@naver.com
 author:
   picture: http://site.hugocarreira.me/assets/img/compressed/hugo.jpg #URL FORMAT
   name: Hugo Carreira
@@ -8,8 +8,8 @@ author:
 description: only my simple vision of casper theme
 baseurl: "/"
 url: https://hugocarreira.github.io/jekyll-vision-casper-theme
-twitter_username: hugocolombo23
-github_username:  hugocarreira
+twitter_username: 
+github_username: dduyon2
 github_url: https://hugocarreira.github.io/jekyll-vision-casper-theme/
 
 # Build settings
