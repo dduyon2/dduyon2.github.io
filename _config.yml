@@ -1,15 +1,14 @@
-title: Jekyll Vision Casper Theme
-email: hugo.colombo23@gmail.com
+title: SOOYEON Page
+email: ksy9500@naver.com
 author:
-  picture: http://site.hugocarreira.me/assets/img/compressed/hugo.jpg #URL FORMAT
-  name: Hugo Carreira
-  location: Rio de Janeiro - Brazil
-  description: "19 years old, studying computer science"  
-description: only my simple vision of casper theme
+  picture: http://cdn.shopify.com/s/files/1/0035/2754/0782/articles/International_Flower_Day_1200x1200.jpeg?v=1579365491#URL FORMAT
+  name: KIM SOOYEON
+  location: Seongnamsi - Korea
+  description: "I want to be a professional developer"  
+description: MY PORTFOLIO
 baseurl: "/"
-url: https://hugocarreira.github.io/jekyll-vision-casper-theme
-twitter_username: hugocolombo23
-github_username:  hugocarreira
+url: https://hugocarreira.github.io/jekyll-vision- casper-theme
+github_username: dduyon2
 github_url: https://hugocarreira.github.io/jekyll-vision-casper-theme/
 
 # Build settings
