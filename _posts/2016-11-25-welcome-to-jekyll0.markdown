@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:  
+date:   2022-03-25 16:22:27 -0800
 author: kimsooyeon
 description: "post description"
 ---
