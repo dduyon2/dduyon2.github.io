@@ -9,7 +9,7 @@ description: MY PORTFOLIO
 baseurl: "/"
 url: https://dduyon2.github.io/
 github_username: dduyon2
-github_url: https://dduyon2.github.io/
+github_url: https://dduyon2.github.io/jekyll-vision-casper-theme/
 
 # Build settings
 permalink: :title
