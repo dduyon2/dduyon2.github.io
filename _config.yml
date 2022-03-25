@@ -1,13 +1,13 @@
 title: SOOYEON Page
 email: ksy9500@naver.com
 author:
-  picture: http://cdn.shopify.com/s/files/1/0035/2754/0782/articles/International_Flower_Day_1200x1200.jpeg?v=1579365491 
+  picture: http://cdn.shopify.com/s/files/1/0035/2754/0782/articles/International_Flower_Day_1200x1200.jpeg?v=1579365491
   name: KIM SOOYEON
   location: Seongnamsi - Korea
-  description: "A Future professional developer"  
+  description: "I want to be a professional developer"  
 description: MY PORTFOLIO
 baseurl: "/"
-url: https://dduyon2.github.io/
+url: https://hugocarreira.github.io/jekyll-vision-casper-theme/
 github_username: dduyon2
 github_url: https://hugocarreira.github.io/jekyll-vision-casper-theme/
 
